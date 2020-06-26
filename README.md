@@ -4,7 +4,7 @@ A VR project I contributed to as part of the Visual Narrative Innitiative at NCS
 
 \*When running the demo, pressing the "A" button on the right-hand controller alternates between scenes. Users can cast a waypoint out from either hand by pressing forward on the analog stick and releasing to "teleport" to the position of the waymarker (similar to *Robo Recall*)
 
-Team Historian:   Lisa Lamb
+Team Historian:   Lisa Lamb<br/>
 Team Designers:   Andrew Wiedner
                   Sara Fisher
 Team Developers:  Frankie Goodnight
