@@ -1,4 +1,4 @@
-"Far From Home" Project
+#"Far From Home" Project
 
 A VR project I contributed to as part of the Visual Narrative Innitiative at NCSU. Using context provided by our team historian, I helped develop a VR walking tour of World-War-I-Era environments. Our designers worked on creating a farmhouse environment and a trench environment, and our development team optimized the assets for VR interactions. I contributed by setting up our Unity workstations and inmplementing the Oculus integration package, as well as programming basic interactions and locomotion mechanics. I also worked to implement spatial sound, lighting, and post-processing effects available through the Unity engine.
 
