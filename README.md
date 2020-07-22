@@ -6,7 +6,7 @@ A VR project I contributed to as part of the Visual Narrative Innitiative at NCS
     <img src="https://raw.githubusercontent.com/jewingo/Far-From-Home-VNI/master/ffhDemo.gif"></img>
 </p>
 
-\*When running the demo, pressing the "A" button on the right-hand controller alternates between scenes. Users can cast a waypoint out from either hand by pressing forward on the analog stick and releasing to "teleport" to the position of the waymarker (similar to *Robo Recall*)
+*Controls*: When running the demo, pressing the "A" button on the right-hand controller alternates between scenes. Users can cast a waypoint out from either hand by pressing forward on the analog stick and releasing to "teleport" to the position of the waymarker (similar to *Robo Recall*). Grab by using the "grab" triggers on the Oculus Touch controllers.
 
 <p>Team Historian:   Lisa Lamb<br/>
 Team Designers:   Andrew Wiedner, Sara Fisher<br/>
